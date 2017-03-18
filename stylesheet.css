@@ -1,0 +1,10 @@
+ul li{
+  display: inline;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #1b3642;
+	font-size: 16px;
+	line-height: 1.8;
+}
